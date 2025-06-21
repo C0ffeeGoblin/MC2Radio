@@ -60,6 +60,11 @@
             "title": "Metal Radio",
             "name": "Metal Radio"
         },
+         {
+            "url": "https://d2pn9mo8ybv0qg.cloudfront.net/h0fua8%2Ffile%2Ffe7d45a82453d7ab647f457e2addf48c_75cd639b99129febb3c13aa41cbf6993.mp3?response-content-disposition=inline%3Bfilename%3D%22fe7d45a82453d7ab647f457e2addf48c_75cd639b99129febb3c13aa41cbf6993.mp3%22%3B&response-content-type=audio%2Fmpeg&Expires=1750568802&Signature=MJ8Spgjisvb4fCBWFXCsnZ2m6u6Vz4~6waidtVNzz-m-mPKpQ9ZHrpWgdOyP~Yygib7vI8i2VtiUQJsCRU-wtzKE2DTd2ekgdeNCcdEPAVxQUL3U67QDfqE0IvYrIjEqLcV7g4vXBJyfut6OYQFCMGMqdanHPe83dwuo-i-MiF7N3mnZHbOtw~0vxtiPMZEaGnLXlq8Tb3BQsTSSn8ASH0xTOgRmo-4ZZBv5rQe-k7HSs4~5MeVfyRKiYjQk~fkENpcTPmLvs93EW69zNW9pH9MrIXgJeqoMR~pd7QAS~NsgmBdHPmqGfgmkgvocUyl5WDyB~uxw6X0f5lvsoU3yoA__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ",
+            "title": "MP3 Test - Nice Piano",
+            "name": "Nice Piano"
+        },
         {
             "url": "https://play.sas-media.ru/play_256",
             "title": "Noise FM",
